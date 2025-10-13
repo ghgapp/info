@@ -9,7 +9,7 @@ layout: default
 
 ## New GHG App version
 
-<iframe width="1000" height="500" src="https://youtu.be/zyVEiROKIOw?si=g4l5lZVIi1pZsJ4L" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1000" height="500" src="https://www.youtube.com/embed/zyVEiROKIOw?si=XDJ1Jnt7OGUAzeub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Instructions on how to use GHG App Dashboard
 

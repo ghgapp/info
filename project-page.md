@@ -7,7 +7,7 @@ layout: default
 [User feedback](./feedback-page.html)
 [Developer Bio](./bio-page.html)
 
-## Urban Digital Twin for accounting building operational greenhouse gas (GHG) emissions
+## Urban Digital Twin for accounting building greenhouse gas (GHG) emissions
 
 * * *
 
